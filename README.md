@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/Sadexa/bot
-cd stikerinbot
+cd bot
 npm i
 npm update
 node .
@@ -21,7 +21,7 @@ node .
 ## UNTUK PENGGUNA TERMUX
 ```bash
 git clone https://github.com/Sadexa/bot --branch termux
-cd stikerinbot
+cd bot
 npm i
 npm update
 node .
