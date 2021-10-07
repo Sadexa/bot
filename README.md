@@ -20,7 +20,7 @@ node .
 
 ## UNTUK PENGGUNA TERMUX
 ```bash
-git clone https://github.com/ariffb25/stikerinbot --branch termux
+git clone https://github.com/Sadexa/bot --branch termux
 cd stikerinbot
 npm i
 npm update
@@ -125,5 +125,5 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25)
+[Nurutomo](https://github.com/Nurutomo) | [Sadexa](https://github.com/Sadexa)
  Penulis / Pencipta | Penulis ulang
